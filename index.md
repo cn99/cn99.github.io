@@ -1,16 +1,16 @@
 
 <html>
 <head>
-<meta http-equiv="refresh" content="10; url="http://106.12.103.92">
+<meta http-equiv="refresh" content="3; url=http://106.12.103.92">
 </head>
 <body>
   
-  <!---
+
 
 图片
 <a href="http://106.12.103.92" >我的网站</a>
 方法一:
-
+  <!---
 <script language="javascript">
     window.location = "http://106.12.103.92";
 </script>
