@@ -1,14 +1,14 @@
 
 <html>
 <head>
-<meta http-equiv="refresh" content="0; url=http://106.12.103.92">
+
 </head>
 <body>
   
 
 
 图片
-<a href="http://106.12.103.92" >我的网站</a>
+
 方法一:
   <!---
 <script language="javascript">
@@ -18,7 +18,7 @@
 方法二:
 
 <script language="javascript">
-    document.location = "http://106.12.103.92";
+    //document.location = "http://106.12.103.92";
 
 </script>
 
